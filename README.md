@@ -8,7 +8,7 @@ So far, one of the main challenges that I've had is that there are so many cours
 
 Next week, I'm planning on finalizing my course selections so that I have a clearer idea of the rest of my semester, and I can get started on my project proposal.
 
-#### Week 3 Update
+### Week 3 Update
 Last week, I finalized what training courses I want to complete for my project and saved them all on LinkedIn. I also made a schedule for the rest of the semester so that I have a plan for what courses I am doing each week. 
 
 This week, I am going to be starting with the LinkedIn training. The first skill that I am going to be focusing on is teamwork, and I will be completing the "Teamwork Foundations" training course. 
