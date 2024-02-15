@@ -25,3 +25,12 @@ Next week, I am going to be starting on the Improve your Teamwork course, and my
 The main obstacle that I am worried about is time. This is a longer course, and the first half will take roughly 3.5 hours, not including any of the quizzes along the way.
 
 To improve my process and help mitigate the time issue this week, I think that I could still be better about starting the training earlier in the week. That way, I can give myself more time and don't feel like I have to rush through everything at the last minute. Also, because this is a longer training course, I think that starting earlier would allow me to break it up into multiple sections. I think this would make it more manageable and improve my process. 
+
+### Week 5 Update
+Last week I got started on the Improve Your Teamwork course on LinkedIn. This course was a little different from the other ones that I have planned for the semester, as it is actually a "Learning Path." This means that it is broken down into different courses that all cover topics related to teamwork. Of the 8 courses included, I completed the first 4 along with the chapter quizzes and exams.
+
+Next week, I am going to be completing the remaining 4 courses in this learning path. 
+
+The next four courses are a little longer than the first four courses, so I think that time will be my biggest challenge. Also, because each course is a different topic, it is a little more difficult to fully digest the course and what I have learned before moving onto the next one if I am doing them back to back. Because of this, I am slightly worried that I will not be getting as much out of the courses as I can.
+
+To improve my strategy, I think that I need to break up my scheduled time for working on the courses in the learning path. The last couple of weeks, I have set aside dedicated time to work on this project, but it has been all at once. With this learning path specifically, I think focusing on one subtopic and then taking some time away to process and let it sink in before diving into the next subtopic will improve my overall understanding of the learning path. 
