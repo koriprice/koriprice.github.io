@@ -70,3 +70,13 @@ Next week, I am going to be finishing up my leadership courses with Inspirationa
 The main issues that I think I'll have are time and motivation. Since it is Spring Break, I would love to be able to take it easy and relax next week. However, this is one of the longer courses, so I will need to make sure that I set aside some time to make sure that I get it done.
 
 To improve my process for this next week, I should be able to put this project at the top of my priority list. Because I don't have any other assignments to work on, I think I will be able to dedicate time to completing this course early in the week. This way, I'll be able to stay on track with my schedule while also getting some time to myself to enjoy the break!
+
+### Week 11 Update
+This week, I completed the courses Interviewing Techniques and Tips for Common Interview Questions. Interviewing Techniques was not what I expected it to be. When I was originally picking the courses for this project, I thought that this would be geared toward people interviewing for jobs, but it was actually aimed at interviewers. However, after completing the course, I think it will still be helpful for me when I start interviewing for positions. I think that I will have a better understanding of the interview from the interviewer's perspective, which should help me in my job searching process. Tips for Common Interview Questions was very helpful. Many questions, like where do you see yourself in five years, are ones that I have encountered a lot in the past, and the course definitely gave me good strategies for answering. I feel like I know why these questions are so common, and what interviewers are wanting from my response. 
+
+Next week, I am going to be completing the Getting Ready for your Coding Interview course.
+
+I do have several exams and project due dates next week, so my main issue will be prioritizing these LinkedIn courses. I feel like I have been a bit behind after Spring Break, so I will need to make sure that I dedicate enough time to stay on track with this project.
+
+To improve my process, I think that I could look for outside resources to go with this next course. Depending on the advice that the course gives for coding interviews, I think it would be helpful to seek out some online resources to practice coding questions or go over common concepts to help me be prepared for a coding interview. 
+
