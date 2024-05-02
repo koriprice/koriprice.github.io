@@ -98,3 +98,12 @@ The main issue that I think I will have is time. The Hybrid Work course is one o
 
 To improve my process, I think it will be very beneficial for my to take one step at a time next week and break up my workload into smaller, less intimidating milestones. I think this will keep me from being overwhelmed and make sure that I have time to do everything that I want to accomplish next week. This should also be a good opportunity to practice my time management skills!
 
+## Week 15 Update
+This week, I completed the Planning Your Career and Your Life Course. I really enjoyed this course and found it to be very informative. It touched on many topics, like choosing the right career path for you based on what your priorities are. For example, if you are more focused on enjoyment, you may want to choose a job that is less demanding and time-intensive so that you have more time for personal enjoyment outside of work. On the other hand, if you are motivated by achievement, you might get more out of a job that is demanding rather than just going through the motions every day. This course also gave a lot of insight into how to know when it is time to move on from a job. My main takeaway from this is that if you have no opportunity to grow, it is probably time to look elsewhere. It also emphasized knowing yourself. Knowing your own values, strengths, and weaknesses can help you take the next steps that will ultimately make you the most satisfied both at work and outside of it. This week, I also updated my resume based on what I learned from the Tech Resume course, and I have used it to start applying for some summer internships!
+
+The remainder of this week, I am going to be working on the final project reflection. I also plan on continuing to use LeetCode to practice for coding interviews if I have the time to do so, as well as continue applying for internships with my newly updated resume.
+
+I don't believe I will have any barriers to completing the rest of these tasks. As the semester winds down, I've completed most of my other classwork, so I will be able to make finishing up this project my priority.
+
+To improve my process, I think it will be helpful to go back and read my previous updates as well as my proposal and project update. I think reviewing where I started and my overall process will help me reflect on this project as a whole, and it will give me a good starting point for the final reflection. 
+
